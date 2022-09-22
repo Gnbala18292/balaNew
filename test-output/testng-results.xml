@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6708" started-at="2022-09-09T05:41:13Z" finished-at="2022-09-09T05:41:20Z">
+  <suite name="Default suite" duration-ms="7143" started-at="2022-09-22T06:35:12Z" finished-at="2022-09-22T06:35:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6708" started-at="2022-09-09T05:41:13Z" finished-at="2022-09-09T05:41:20Z">
+    <test name="Default test" duration-ms="7143" started-at="2022-09-22T06:35:12Z" finished-at="2022-09-22T06:35:20Z">
       <class name="ExtentedRport.Report.myReport">
-        <test-method status="PASS" signature="reportTest()[pri:0, instance:ExtentedRport.Report.myReport@3108bc]" name="reportTest" is-config="true" duration-ms="159" started-at="2022-09-09T05:41:13Z" finished-at="2022-09-09T05:41:13Z">
+        <test-method status="PASS" signature="reportTest()[pri:0, instance:ExtentedRport.Report.myReport@3108bc]" name="reportTest" is-config="true" duration-ms="190" started-at="2022-09-22T06:35:12Z" finished-at="2022-09-22T06:35:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportTest -->
-        <test-method status="PASS" signature="mainTest()[pri:0, instance:ExtentedRport.Report.myReport@3108bc]" name="mainTest" duration-ms="6539" started-at="2022-09-09T05:41:13Z" finished-at="2022-09-09T05:41:20Z">
+        <test-method status="PASS" signature="mainTest()[pri:0, instance:ExtentedRport.Report.myReport@3108bc]" name="mainTest" duration-ms="6943" started-at="2022-09-22T06:35:13Z" finished-at="2022-09-22T06:35:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mainTest -->

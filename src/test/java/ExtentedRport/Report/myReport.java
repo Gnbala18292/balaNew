@@ -37,6 +37,8 @@ public class myReport {
 		WebDriver driver =new ChromeDriver();
 		driver.get("https://www.iitm.ac.in/");
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle()+ "I m success");
+		System.out.println(driver.getTitle()+ "I done this work");
 		driver.close();
 		extent.flush();
 	
