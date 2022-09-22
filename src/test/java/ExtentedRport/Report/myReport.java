@@ -39,6 +39,10 @@ public class myReport {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getTitle()+ "I m success");
 		System.out.println(driver.getTitle()+ "I done this work");
+		System.out.println(driver.getTitle()+ "I m success1");
+		System.out.println(driver.getTitle()+ "I done this work1");
+		System.out.println(driver.getTitle()+ "I m success2");
+		System.out.println(driver.getTitle()+ "I done this work2");
 		driver.close();
 		extent.flush();
 	
